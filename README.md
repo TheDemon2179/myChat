@@ -34,7 +34,7 @@ This is my first project using React!  It's a simple AI chat application called 
 
 1. **Clone the repository:** `git clone [your-repository-url]`
 2. **Install dependencies:** `yarn install`
-3. **Create a `.env` file:** Add your GROQ API key in the `.env` file as `REACT_APP_GROQ_API_KEY=[your_api_key]`
+3. **Create a `.env` file:** Add your GROQ API key in the `.env` file as `VITE_GROQ_API_KEY="your_api_key"
 4. **Start the development server:** `yarn dev`
 
 ## Future Improvements
