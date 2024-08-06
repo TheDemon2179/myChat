@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Niramit:700|Niramit:400');
+
+.chatBox {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+p {
+	color: #f1e9ea;
+	font-size: 20px;
+}
+
+body {
+	overflow-x: hidden;
+	font-family: 'Niramit';
+}
